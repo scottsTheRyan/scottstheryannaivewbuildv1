@@ -9,7 +9,7 @@ import JavaScript from '../assets/javascript.png';
 import Docker from '../assets/docker.png';
 import Django from '../assets/django.png';
 import GitHub from '../assets/github.png';
-import Mongo from '../assets/mongo.png';
+import MongoDB from '../assets/mongo.png';
 
 const Skills = () => {
     return (
@@ -51,8 +51,8 @@ const Skills = () => {
                     <p className='my-4'>Postman</p>
                 </div>
                 <div className='shadow-sm shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={aws} alt="AWS icon" />
-                    <p className='my-4'>AWS</p>
+                    <img className='w-20 mx-auto' src={MongoDB} alt="Mongo DB icon" />
+                    <p className='my-4'>MongoDB</p>
                 </div>
             </div>
         </div>
