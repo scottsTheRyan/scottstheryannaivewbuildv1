@@ -88,7 +88,7 @@ const Work = () => {
               <p className="my-4">react, dynamic elements</p>
               <p className="my-4">rapid API</p>
               <div className="pt-2 text-center">
-                <a href="https://endofthebeginningmvp.netlify.app/">
+                <a href="https://survivepitchblack.netlify.app/">
                   <button className="text-center border-b-4 rounded-md px-3 py-2 m-2 bg-[#FBFCFE] text-[#838384] text-lg">
                     Demo
                   </button>
